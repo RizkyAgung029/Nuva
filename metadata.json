@@ -1,0 +1,6 @@
+{
+  "name": "NUVA Treasury - Institutional RWA Vault Protocol on Monad",
+  "description": "Enterprise-grade Real World Asset (RWA) vault and corporate treasury management protocol on Monad, powered by dual-contract ERC-4626, modular Chainlink micro-rebalancing, and Privy zero-friction enterprise security.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
